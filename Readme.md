@@ -6,6 +6,7 @@ The goal of “Dream Dog” is to find the perfect dog breed for the user based 
 The user would also get to interact with other users on the site that have their ‘dream’ dog by sending a ‘bark.’
 
 Team Members
+
 1) Ashley Gittens
 
 2) Bibi Alli
