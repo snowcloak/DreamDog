@@ -7,6 +7,9 @@ The user would also get to interact with other users on the site that have their
 
 Team Members
 1) Ashley Gittens
+
 2) Bibi Alli
+
 3) Kristina Cayetano
+
 4) Miguel Zeng
