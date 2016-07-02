@@ -1,0 +1,87 @@
+<html>
+<div style="background-image:url(http://www.html.am/images/backgrounds/background-image-2.gif);">
+
+<head>
+<title> DreamDog </title> 
+</head> 
+
+<body>
+
+<center>
+<img src="logo.png" width="150" height="150" />
+<img src="http://fontmeme.com/embed.php?text=DreamDog&name=JandaHappyDay.ttf&size=56&style_color=15155E" alt="Fancy Fonts"></a>
+
+<br>
+
+<span style="font-family:century gothic, arial;">
+<a href="DreamDog.html">Home</a> | <a href="MakeaMatch.html">Make a Match!</a> | <a href="ListofDogs.html">List of Dogs</a> 
+| <a href=" ">Game</a> | <a href="About.html">About</a> | <a href="Contact.html">Contact</a>
+
+<p>
+
+<img src="https://dogsforhope.files.wordpress.com/2012/06/pet-care-services-hq-dogs-banner2.png" width="626" height="257"</>
+<p>
+
+<p>&nbsp;</p>
+
+<p>
+
+<style> 
+.dreamdog {
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+
+    -webkit-column-gap: 30px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 30px; /* Firefox */
+    column-gap: 30px;
+
+    -webkit-column-rule: 5px outset #56A5EC; /* Chrome, Safari, Opera */
+    -moz-column-rule: 5px outset #56A5EC; /* Firefox */
+    column-rule: 5px outset #56A5EC;
+}
+</style>
+
+<div class ="dreamdog">
+<span style="font-family:century gothic, arial;"> Log In / Create Account 
+
+<p>
+
+<section class="loginform cf">  
+<form name="login" action="index_submit" method="get" accept-charset="utf-8">  
+    <ul>  
+        <label for="usermail">Email:</label>  
+        <input type="email" name="usermail" placeholder="yourname@email.com" required><br> 
+        <label for="firstname">First Name:</label> 
+	<input type="firstname" name="firstname" placeholder="First Name" required><br> 
+	<label for="lastname">Last Name:</label> 
+	<input type="lastname" name="lastname" placeholder="Last Name" required>  <br> 
+	<label for="password">Password:</label>  
+        <input type="password" name="password" placeholder="Password" required>  <br> 
+	<input type="submit" value="Login" color="#0101DF;"></li>  
+    </ul>  
+</form>  
+</section>
+
+<p>
+
+Here at DreamDog, we know it may be difficult to decide on what dog you 
+should make yours. 
+
+<p>
+
+That's why we created this simple application for you! 
+
+<p>
+
+Fill out a quick form and we'll do the rest for you!
+
+</p>
+
+
+</span>
+</div>
+</div>
+</div>
+</body> 
+</html>
