@@ -1,0 +1,117 @@
+<html>
+
+<div style="background-image:url(http://www.html.am/images/backgrounds/background-image-2.gif);">
+
+<head>
+<title> About</title> 
+</head> 
+
+<body>
+
+<center>
+
+<img src="logo.png" width="150" height="150 /> 
+<a href="http://fontmeme.com/fancy-fonts/"><img src="http://fontmeme.com/embed.php?text=About&name= JandaHappyDay.ttf&size=54&style_color=15155E" alt="Fancy Fonts"></a>
+
+<p>
+
+<center>
+<span style="font-family:century gothic, arial;">
+<a href="DreamDog.html">Home</a> | <a href="MakeaMatch.html">Make a Match!</a> | <a href="ListofDogs.html">List of Dogs</a> 
+| <a href="Game.html">Game</a> | <a href="About.html">About</a> | <a href="Contact.html">Contact</a>
+
+<p>
+
+<center>
+<span style="font-size:22px;">
+<span style="font-family:century gothic, arial;"> Meet the people behind DreamDog!
+</span>
+</span>
+
+<p>
+
+<center>
+<div style="float: left; width: 25%;">
+<ul>
+<span style="font-family:century gothic, arial;">
+
+<b> Bibi Alli</b> 
+
+<p>
+
+<img src="bibi.png" width="200" height="200" border="2" /> 
+
+<p>
+
+Bibi Alli was born and raised in New York City. She is a proud Hunter College alumni. 
+In her spare time, she loves to travel and experience new cities! 
+
+<br>
+
+<u>Fun Fact</u>: She hates rollercoasters. 
+</ul>
+</div>
+
+<div style="float: left; width: 25%;">
+<ul>
+<span style="font-family:century gothic, arial;">
+
+<b>Ashley Gittens</b>
+
+<p>
+
+<img src="ashley.png" width="200" height="200" border="2"/>
+
+<p>
+
+Ashley Gittens works in Software Development and is also a recent graduate. 
+She thoroughly enjoys watching scary movies.  
+
+<br>
+
+<u>Fun Fact</u>: She has a bucket list! 
+</ul>
+</div>
+
+<div style="float: right; width: 25%;">
+<ul>
+<span style="font-family:century gothic, arial;">
+
+<b>Miguel Zeng</b>
+
+<p>
+
+<img src="miguel.png" width="200" height="200" border="2"/>
+
+<p>
+
+Miguel Zeng could be described as: A passionate prodigy. He likes to play the piano and drums
+and he also likes reading books. Where ever he goes, there will be fun.
+
+<br>
+
+<u>Fun Fact</u>: He can speak 7 languages!
+</ul>
+</div>
+
+<div style="float: right; width: 25%;">
+<ul>
+<span style="font-family:century gothic, arial;">
+
+<b>Kristina Cayetano</b>
+
+<p>
+
+<img src="kristina.png" width="200" height="200" border="2"/>
+
+<p>
+
+Kristina Cayetano, also known as "Key," is an aspiring computer programmer and 
+media developer. She previously took care of 9 dogs at a time.
+<br>
+
+<u>Fun Fact</u>: Key is also a Hip Hop dancer and choreographer in NYC.
+</ul>
+</div>
+
+</html>
