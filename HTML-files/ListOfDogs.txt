@@ -1,0 +1,29 @@
+<html>
+
+<div style="background-image:url(http://www.html.am/images/backgrounds/background-image-2.gif);">
+
+<head>
+<title> List of Dogs </title> 
+</head> 
+
+<body>
+
+<center>
+<img src="logo.png" width="150" height="150"/>
+<a href="http://fontmeme.com/fancy-fonts/"><img src="http://fontmeme.com/embed.php?text=List%20of%20Dogs&name= JandaHappyDay.ttf&size=54&style_color=15155E" alt="Fancy Fonts"></a>
+
+<p>
+
+<center>
+<span style="font-family:century gothic, arial;">
+<a href="DreamDog.html">Home</a> | <a href="MakeaMatch.html">Make a Match!</a> | <a href="ListofDogs.html">List of Dogs</a> 
+| <a href="Game.html">Game</a> | <a href="About.html">About</a> | <a href="Contact.html">Contact</a> 
+
+<p>
+
+<center>
+<iframe src="http://akc.org/dog-breeds" width="1000" height="600">
+</iframe>
+
+</center>
+</html>

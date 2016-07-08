@@ -1,0 +1,32 @@
+<html>
+
+<div style="background-image:url(http://www.html.am/images/backgrounds/background-image-2.gif);">
+
+<head>
+<title> Dog Dodge Game </title> 
+</head> 
+
+<body>
+
+<div align=center>
+
+<h2 style="text-align: center;">
+<span style="font-size:48px;">
+<span style="color:#0101DF;">
+<span style="font-family:broadway;">Dog Dodge Game
+</span>
+</span>
+</span>
+</h2> 
+
+
+<p>
+
+<center>
+<span style="font-family:century gothic, arial;">
+<a href="DreamDog.html">Home</a> | <a href="MakeaMatch.html">Make a Match!</a> | <a href="ListofDogs.html">List of Dogs</a> 
+| <a href=" ">Game</a> | <a href="AboutUs.html">About Us</a> | <a href="ContactUs.html">Contact Us</a> 
+
+<p>
+
+
