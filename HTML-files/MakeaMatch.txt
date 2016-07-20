@@ -1,0 +1,109 @@
+<html>
+<div style="background-image:url(http://www.html.am/images/backgrounds/background-image-2.gif);">
+
+<head>
+<title> Make a Match </title> 
+</head> 
+
+<body>
+
+<center>
+<img src="logo.png" width="150" height="150" />
+<a href="http://fontmeme.com/fancy-fonts/"><img src="http://fontmeme.com/embed.php?text=Make%20a%20Match&name=JandaHappyDay.ttf&size=52&style_color=15155E" alt="Fancy Fonts"></a>
+<br>
+
+<span style="font-family:century gothic, arial;">
+<a href="DreamDog.html">Home</a> | <a href="MakeaMatch.html">Make a Match!</a> | <a href="ListofDogs.html">List of Dogs</a> 
+| <a href=" ">Game</a> | <a href="About.html">About</a> | <a href="Contact.html">Contact</a>
+
+<p>&nbsp;</p>
+
+<p>
+
+<style> 
+.dreamdog {
+    -webkit-column-count: 1; /* Chrome, Safari, Opera */
+    -moz-column-count: 1; /* Firefox */
+    column-count: 1;
+
+    -webkit-column-gap: 30px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 30px; /* Firefox */
+    column-gap: 30px;
+
+    -webkit-column-rule: 5px outset #56A5EC; /* Chrome, Safari, Opera */
+    -moz-column-rule: 5px outset #56A5EC; /* Firefox */
+    column-rule: 5px outset #56A5EC;
+}
+</style>
+
+<div class ="dreamdog">
+<span style="font-family:century gothic, arial;"> Fill out the form below to get started! 
+
+<p>
+
+<section class="matchform cf">  
+<form name="match" action="index_submit" method="get" accept-charset="utf-8">  
+    <ul>  
+
+        <label for="personality">Personality:</label>  
+	<select>
+  	<option>Confident</option>
+  	<option>Friendly</option>
+  	<option>Loyal</option>
+	<option>Perky</option>
+	</select>
+
+	<p>
+        
+        <label for="lifestyle">Lifestyle:</label> 
+	<select>
+  	<option>Sedentary</option>
+  	<option>Moderately Active</option>
+  	<option>Active</option>
+	</select> 
+
+	<p>
+
+	<label for="housing">Housing:</label> 
+	<select>
+  	<option>Assisted Living</option>
+  	<option>Condominium</option>
+  	<option>Apartment</option>
+	<option>Patio</option>
+	</select>
+	
+	<p>
+
+	<label for="climate">Climate:</label>  
+        <select>
+  	<option>Confident</option>
+  	<option>Friendly</option>
+  	<option>Loyal</option>
+	<option>Perky</option>
+	</select>
+
+	<p> 
+
+	<label for="size">Preferred Dog Size:</label> 
+	<select>
+  	<option>Small</option>
+  	<option>Medium</option>
+  	<option>Large</option>
+	</select>
+ 
+        <p>
+
+	<input type="submit" value="Fetch!" color="#0101DF;"></li>  
+    </ul>  
+</form>  
+</section>
+
+<p>
+
+
+</span>
+</div>
+</div>
+</div>
+</body> 
+</html>
