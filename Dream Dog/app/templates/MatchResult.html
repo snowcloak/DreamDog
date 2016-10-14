@@ -1,0 +1,61 @@
+<html>
+
+<head>
+  {% if title %}
+    <title>Dream Dog - {{ title }}</title>
+  {% else %}
+    <title>Welcome to Dream Dog!</title>
+  {% endif %}
+  <style>
+  body {
+    background-image: url("static/bg.jpg");
+  }
+  </style>
+</head>
+
+<center>
+
+<img src="static/logo.png" width="150" height="150 /> 
+<a href="http://fontmeme.com/fancy-fonts/"><img src="http://fontmeme.com/embed.php?text=Your%20Match%21&name=JandaHappyDay.ttf&size=54&style_color=15155E" alt="Fancy Fonts"></a>
+
+<p>
+
+<center>
+<span style="font-family:century gothic, arial;">
+<a href="Home.html">Home</a> | <a href="MakeaMatch.html">Make a Match!</a> | <a href="Game.html">Game</a> 
+| <a href="ListofDogs.html">List of Dogs</a> | <a href="About.html">About</a> | <a href="Contact.html">Contact</a>
+
+<p>&nbsp;</p>
+
+<center>
+<span style="font-size:22px;">
+<span style="font-family:century gothic, arial;"> 
+
+<h1>Woof! We found your Dream Dog!</h1>
+
+<p>
+</br>   
+Yielding a match percentage of <b>{{ score }}%</b>, here's your dream dog/s...</br>
+</p>
+
+{% for post in posts %}
+    
+<div>
+<p>
+
+<b>{{ post.breed }}</b>! </br></br>
+
+
+
+This <b>{{ post.size }}</b> size breed of dog 
+is known for having this set of personalities <b>{{ post.personality }}</b>. They live a <b>{{ post.lifestyle }}</b> lifestyle and are best in a 
+<b>{{ post.housing }}</b> housing and a <b>{{ post.climate }}</b> environment.
+
+</p>
+</div>
+    
+{% endfor %}
+  
+
+</body>
+</html>
